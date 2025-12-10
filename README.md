@@ -12,13 +12,9 @@ Final-year Electronics & Computer Science Engineering student at SIES GST, focus
 ## 🛠 Tech stack
 
 **Languages:** C++, JavaScript, TypeScript, Python.
-
 **Frontend:** React, Vite, Angular (Infosys projects), Tailwind CSS, HTML, CSS.
-
 **Backend:** Node.js, Express.js, FastAPI. 
-
 **Databases:** MongoDB, MySQL, PostgreSQL, ClickHouse.
-
 **Other:** Socket.io, Web3.js, Ethereum/Solidity basics, Power BI, Excel, Git & GitHub.  
 
 ---
